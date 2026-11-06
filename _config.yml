@@ -1,0 +1,5 @@
+title: "hyper-craft-anything"
+description: "Craft Anything: understand how any software works, and craft your own. (Extended cloud-native edition & architecture specifications)"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
